@@ -1,0 +1,8 @@
+﻿  Elimination.cpp
+  InverseDistribution.cpp
+C:\Users\Laura\Desktop\MPwI_lab3\MPwI_lab3\Elimination.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  InverseDistribution.h
+  Source.cpp
+  Generating Code...
+C:\Users\Laura\Desktop\MPwI_lab3\MPwI_lab3\InverseDistribution.cpp(15,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MPwI_lab3.vcxproj -> C:\Users\Laura\Desktop\MPwI_lab3\x64\Debug\MPwI_lab3.exe
